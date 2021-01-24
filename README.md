@@ -1,5 +1,5 @@
 ## GIT BASICS
-To Initialize Git to repository to folder
+To Initialize Git repository
 
     git init
 
